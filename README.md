@@ -285,7 +285,8 @@ outputs/figures/execution_time_comparison.png
 
 ### Confusion Matrix
 
-![Confusion Matrix](outputs/figures/confusion_matrix.png)
+![Confusion Matrix GPU](outputs/figures/confusion_matrix.png)
+![Confusion Matrix CPU](outputs/figures/confusion_matrix_cpu.png)
 
 ### Execution Time Comparison
 
