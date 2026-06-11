@@ -333,4 +333,4 @@ Overall, CUDA is proven to be an effective approach for accelerating computation
 
 ## Author
 
-This project was developed as a parallel computing experiment to compare CPU serial processing and GPU CUDA parallel processing for KNN-based diabetes classification.
+This project was developed to fulfill the final project requirement of the Parallel Computing course. The implementation focuses on comparing the performance of CPU-based serial processing and GPU-based CUDA parallel processing in K-Nearest Neighbor (KNN) diabetes classification.
