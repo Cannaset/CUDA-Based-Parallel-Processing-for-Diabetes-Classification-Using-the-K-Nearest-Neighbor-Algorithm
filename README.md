@@ -280,6 +280,7 @@ The notebook generates the following visualization outputs:
 
 ```text
 outputs/figures/confusion_matrix.png
+outputs/figures/confusion_matrix_cpu.png
 outputs/figures/execution_time_comparison.png
 ```
 
